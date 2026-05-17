@@ -1,4 +1,4 @@
 # homeassistant-blueprint
 
 🚧 **Under Construction** 🚧
-1: notify_entering_zone.yaml
+1. notify_entering_zone.yaml
