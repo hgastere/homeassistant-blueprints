@@ -1,0 +1,1 @@
+# homeassistant-components-automation-blueprints-
