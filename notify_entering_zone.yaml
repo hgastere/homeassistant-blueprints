@@ -2,7 +2,7 @@ blueprint:
   name: Zone Notification
   description: Send a notification to a device when a person enters a specific zone.
   domain: automation
-  source_url: github.com/hgastere/homeassistant-components-automation-blueprintsnotify_leaving_zone.yaml
+  source_url: https://github.com/hgastere/homeassistant-blueprints.git
   author: Huub
   input:
     person_entity:
